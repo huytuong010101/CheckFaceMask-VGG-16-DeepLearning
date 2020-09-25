@@ -1,18 +1,19 @@
-# This project use to check if a person has face mask or not
+# This project use to check if a person has face mask or not via Webcam
 
 ## Download model (I trained it)
 
-Download here: [Link drive](https://drive.google.com/file/d/1-CfCVvDb-ShWqjoCADK2TiVYLk1iv6UL/view?usp=sharing)
-Save it to root directory
+- Download here: [Link drive](https://drive.google.com/file/d/1-CfCVvDb-ShWqjoCADK2TiVYLk1iv6UL/view?usp=sharing)
+- Save it to root directory
 
 
 ## Run code
 
 - You should upload this project to google colab
 - Edit some path in project
-- Run last 2 cell in jupyter file
+- Run some cell to run a server
+- It will print a link ngrok, you can access that link to use your webcam and check face mask
 
 
 ## Example
 
-![Capturea0033c2a629e801c.png](https://www.upsieutoc.com/images/2020/09/23/Capturea0033c2a629e801c.png)
+[![ezgif-3-6439b8ea20ca.gif](https://s1.gifyu.com/images/ezgif-3-6439b8ea20ca.gif)](https://gifyu.com/image/4Bb7)
